@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://panel.44s4.vip/'
+window.routerBase = 'https://panel.44s4.vip'
 window.settings = {
   // 站点名称
   title: '北极云',
