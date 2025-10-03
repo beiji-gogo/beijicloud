@@ -29,7 +29,7 @@
       "placeholder": "可以实现客服JS代码的加入等",
       "field_name": "custom_html",
       "field_type": "textarea",
-      "default_value": "<div style='text-align:center'>©2025 北极云44s4 | <a href='https://t.me/beijicloud' target='_blank'>联系我们</a></div>"
+      "default_value": "<div style='text-align:center'>©2025 北极云44s4 | <a href='https://t.me/beijicloud' target='_blank'>联系我们</a></div>\n<script src='https://assets.salesmartly.com/js/project_22168_89535_1719964974.js'></script>"
     }
   ]
 }
