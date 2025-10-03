@@ -2,9 +2,9 @@
 window.routerBase = 'https://panel.beijicloud.cloud/'
 window.settings = {
   // 站点名称
-  title: '北极云',
+  title: '北极云44s4',
   // 站点描述
-  description: '北极云',
+  description: '玩游戏延迟低|4K视频无缓冲|跨境必备',
   assets_path: '/assets',
   // 主题色
   theme: {
