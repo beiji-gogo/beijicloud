@@ -15,5 +15,5 @@ window.settings = {
   // 登陆背景
   background_url: 'https://img.alicdn.com/imgextra/i1/408949141/O1CN01Qm9IOp2HOdX1jFY0M_!!408949141.jpg',
   // 站点LOGO
-  logo: '北极云44s4',
+  logo: 'https://img.alicdn.com/imgextra/i1/408949141/O1CN01BShrSW2HOdWzvuPYP_!!408949141.png',
 }
