@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://panel.beijicloud.cloud'
+window.routerBase = 'https://panel.beijicloud.cloud/'
 window.settings = {
   // 站点名称
   title: '北极云',
