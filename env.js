@@ -13,7 +13,7 @@ window.settings = {
   // 版本号
   version: '0.1.1',
   // 登陆背景
-  background_url: 'https://img.alicdn.com/imgextra/i1/408949141/O1CN01BShrSW2HOdWzvuPYP_!!408949141.png',
+  background_url: 'https://img.alicdn.com/imgextra/i1/408949141/O1CN01Qm9IOp2HOdX1jFY0M_!!408949141.jpg',
   // 站点LOGO
   logo: '北极云44s4',
 }
