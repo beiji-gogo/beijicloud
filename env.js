@@ -15,5 +15,5 @@ window.settings = {
   // 登陆背景
   background_url: 'https://img.alicdn.com/imgextra/i1/408949141/O1CN01XvManh2HOdX1GMyi3_!!408949141.jpg',
   // 站点LOGO
-  logo: 'https://img.alicdn.com/imgextra/i3/408949141/O1CN01z6g4Y62HOdX23rYHo_!!408949141.png',
+  logo: 'https://img.alicdn.com/imgextra/i4/408949141/O1CN01aT9zs62HOdX0pkYhV_!!408949141.png',
 }
