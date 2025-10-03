@@ -1,8 +1,8 @@
 {
   "name": "北极云44s4",
-  "description": "北极云44s4",
+  "description": "北极云44s4 - 玩游戏延迟低 | 4K视频无缓冲 | 跨境必备",
   "version": "1.0.0",
-  "images": "",
+  "images": "https://img.alicdn.com/imgextra/i2/408949141/O1CN017iR2wt2HOdX1dkiBl_!!408949141.png",
   "configs": [
     {
       "label": "主题色",
@@ -15,19 +15,21 @@
         "black": "黑色",
         "darkblue": "暗蓝色"
       },
-      "default_value": "default"
+      "default_value": "blue"
     },
     {
       "label": "背景",
       "placeholder": "请输入背景图片URL",
       "field_name": "background_url",
-      "field_type": "input"
+      "field_type": "input",
+      "default_value": "https://img.alicdn.com/imgextra/i1/408949141/O1CN01XvManh2HOdX1GMyi3_!!408949141.jpg"
     },
     {
       "label": "自定义页脚HTML",
       "placeholder": "可以实现客服JS代码的加入等",
       "field_name": "custom_html",
-      "field_type": "textarea"
+      "field_type": "textarea",
+      "default_value": "<div style='text-align:center'>©2025 北极云44s4 | <a href='https://t.me/beijicloud' target='_blank'>联系我们</a></div>"
     }
   ]
 }
